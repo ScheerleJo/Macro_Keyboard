@@ -18,14 +18,12 @@ A few functions will be the same over the different Layers such as:
 
 ### Editing Layer
 This Layer will have the ability to access the Premiere CEP interface to speed up and Control important funtions.
--   [ ] stabilizion has to be implemented
--   [ ] disable all applied effects
+-   [ ] stabilization has to be implemented
 -   [ ] 16:9 sizer
 -   [ ] save project as (Sicherheitskopie)
 -   [ ] zoom out to see the whole project in the timeline
 -   [ ] Zoom in/out on selected clip
 -   [ ] Crop in/out by 20% is not possible josiaSAD
--   [ ] Spotify control
 -   [ ] gauisian blur
 -   [ ] Drop shadow
 -   [ ] Lumetri color window opens
