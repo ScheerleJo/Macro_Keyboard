@@ -38,6 +38,9 @@ This Layer will have the ability to access the Premiere CEP interface to speed u
 -   [ ] jump to marker (1-10) & next/previous Marker
 -   [ ] color selected CLips in color a/b/c/d
 -   [ ] disable all applied effecs on all selected clips
+-   [ ] connect Captions
+-   [ ] separate Captions
+-   [ ] eddit current Caption
             
 ### Utility Layer
 That will be the standard Layer, what the Keyboard will boot to by default. When not using for editing or programming, some useful macros and tools shall be available for direct access.
@@ -53,7 +56,7 @@ Some useful functions would be
 
 ## Current status
 Currently there is little progress done. The main task is to model and create the hardware of the Keyboard before it can be fully tested.
-Next up is to find a software architecture which handles all the communication between the controller of the Keystrokes connected to the micro-controller and the different functions and programming languages in the layers
+Next up is to fully test the software architecture which handles all the communication between the Arduino and the PC-side. Another soon upcoming TODO is starting to test and implement the different functions and communicaation between programming languages in the layers
 
 ## Developers
 <img src="https://avatars.githubusercontent.com/ScheerleJo"   height="50px" title="Josia Scheerle"/> | [`@ScheerleJo`](https://github.com/ScheerleJo)
