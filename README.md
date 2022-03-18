@@ -39,8 +39,9 @@ This Layer will have the ability to access the Premiere CEP interface to speed u
 -   [ ] color selected CLips in color a/b/c/d
 -   [ ] disable all applied effecs on all selected clips
 -   [ ] connect Captions
--   [ ] separate Captions
+-   [ ] split Captions
 -   [ ] eddit current Caption
+-   [ ] MultiCam selection for first 8 Cameras
             
 ### Utility Layer
 That will be the standard Layer, what the Keyboard will boot to by default. When not using for editing or programming, some useful macros and tools shall be available for direct access.
