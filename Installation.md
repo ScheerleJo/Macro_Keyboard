@@ -22,6 +22,10 @@ Some useful information including a cheat-sheet for Keyboard simulation with pyn
 https://pynput.readthedocs.io/en/latest/keyboard.html#pynput.keyboard.Key
 ```
 
+HTTP-Requests needed for HotkeylessAHK and PremiereCEP:
+```
+https://www.geeksforgeeks.org/get-post-requests-using-python/
+```
 
 
 ## Developers
