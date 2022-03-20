@@ -3,10 +3,7 @@ import serial
 serialString = "" # Used to hold data coming over UART
 macroLayer = 0
 
-serialPort = serial.Serial(port = "COM5", baudrate=9600, bytesize=8, timeout=2, stopbits=serial.STOPBITS_ONE)
-
-
-#serialPort.open()
+serialPort = serial.Serial(port = "COM4", baudrate=9600, bytesize=8, timeout=2, stopbits=serial.STOPBITS_ONE)
 
 def keyFunctionLayer1(button):
     #print('Utility Layer')
