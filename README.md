@@ -15,6 +15,14 @@ The Keyboard will have multiple Layers for the different applications of usage f
 A few functions will be the same over the different Layers such as:
 -   Open pograms like the Adobe Creative Cloud / Gimp / 
 -   Implement 3 or 4 different clipboards to store different contents and paste them directly when previously imported in one of the clipboard banks.
+### Global functions
+The following functions will be available independant from the current Layer (e.g. A1-B5)
+-   [ ] Key Lock
+-   [ ] Undo
+-   [ ] Redo
+-   [ ] Reset Arduino (-> if pressed: arduino and all running scripts are rebooted)
+-   [ ] Windows Key
+-   [ ] keyboard Lock (from normal Keyboard)
 
 ### Editing Layer
 This Layer will have the ability to access the Premiere CEP interface to speed up and Control important funtions.
@@ -42,6 +50,7 @@ This Layer will have the ability to access the Premiere CEP interface to speed u
 -   [ ] split Captions
 -   [ ] eddit current Caption
 -   [ ] MultiCam selection for first 8 Cameras
+-   [ ] Timeline on an Encoder
             
 ### Utility Layer
 That will be the standard Layer, what the Keyboard will boot to by default. When not using for editing or programming, some useful macros and tools shall be available for direct access.
