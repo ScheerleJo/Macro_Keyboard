@@ -23,6 +23,12 @@ The following functions will be available independant from the current Layer (e.
 -   [ ] Reset Arduino (-> if pressed: arduino and all running scripts are rebooted)
 -   [ ] Windows Key
 -   [ ] keyboard Lock (from normal Keyboard)
+-   [ ] Start several Programs
+    * Premiere
+    * Photoshop / Gimp
+    * After Effects
+    * Spotify
+    * Task Manager
 
 ### Editing Layer
 This Layer will have the ability to access the Premiere CEP interface to speed up and Control important funtions.
@@ -51,7 +57,8 @@ This Layer will have the ability to access the Premiere CEP interface to speed u
 -   [ ] eddit current Caption
 -   [ ] MultiCam selection for first 8 Cameras
 -   [ ] Timeline on an Encoder
-            
+-   [ ] Export Single Frame as Image
+
 ### Utility Layer
 That will be the standard Layer, what the Keyboard will boot to by default. When not using for editing or programming, some useful macros and tools shall be available for direct access.
 
