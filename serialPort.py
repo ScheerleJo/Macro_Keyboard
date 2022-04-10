@@ -1,4 +1,5 @@
 import serial
+import requests
 from pynput.keyboard import Key, Controller
 keyboard = Controller()
 
@@ -21,6 +22,7 @@ def keyFunctionLayer(button:str, lastbutton:int):
     if button == "Switch Klicked":
         keyboard.press(Key.f20)
         keyboard.release(Key.f20)
+        r = requests.get('https://localhost:8000/send?action')
     elif button == "System successfully booted":
         print('Ready to go!')
     elif int(button) > lastbutton:
