@@ -1,0 +1,94 @@
+* {
+    color: rgb(200, 200, 200);
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    font-family: Roboto, Noto, sans-serif;
+    font-size: 14px;
+}
+body {
+    height: 100%;
+    background: rgb(30, 30, 30);
+}
+.keyboard {
+    padding: 10px;
+    background: rgb(15, 15, 15);
+    margin: 20px;
+    display: block;
+    width: 1235px;
+}
+.col {
+    display: inline-block;
+}
+.switch {
+    height: 50px;
+    width: 50px;
+    background: rgb(80, 80, 80);
+    /* border: black 2px solid; */
+    margin: 3px 1px;
+}
+.vertical {
+    display: block;
+}
+.horizontal {
+    display: inline-block;
+}
+.c {
+    margin-top: 100px;
+}
+
+.xl {
+    height: 75px;
+    width: 134px;
+    /* display: inline-block; */
+}
+.encoder {
+    background: rgb(255, 145, 0);
+    border-radius: 50%;
+    height: 96px;
+    width: 96px;
+    display: inline-block;
+}
+.big {
+    height: 274px;
+    width: 274px;
+    margin-left: 1px;
+}
+
+.keys div {
+    margin: 5px 1px;
+    margin-top: 6px;
+}
+.keys{
+    display: inline-block;
+    margin-left: 4px;
+}
+.bigger {
+    width: 78px;
+}
+.col6-18 .c{
+    margin-top: 1px;
+}
+.col6-18 .a {
+    margin-top: 100px;
+}
+.col6-18 {
+    margin-left: 30px;
+}
+.col19-22 {
+    margin-left: 30px;
+    vertical-align: top;
+}
+.multiblock {
+    margin-bottom: 70px;
+}
+#a19-d20 {
+    margin-bottom: 40px;
+}
+.layer {
+    background: rgb(0, 100, 0);
+    margin-left: 57px;
+}
+.key {
+    display: inline-block;
+}

@@ -1,12 +1,12 @@
 import serial
-import requests
 from pynput.keyboard import Key, Controller
+import requests
 keyboard = Controller()
 
 serialString = "" # Used to hold data coming over UART
 lastButton = 0;
 
-serialPort = serial.Serial(port = "COM5", baudrate=9600, bytesize=8, timeout=2, stopbits=serial.STOPBITS_ONE)
+serialPort = serial.Serial(port = "COM4", baudrate=9600, bytesize=8, timeout=2, stopbits=serial.STOPBITS_ONE)
 
 def keyFunctionLayer(button:str, lastbutton:int):
     print(button)
