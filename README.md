@@ -15,6 +15,16 @@ The Keyboard will have multiple Layers for the different applications of usage f
 A few functions will be the same over the different Layers such as:
 -   Open pograms like the Adobe Creative Cloud / Gimp / 
 -   Implement 3 or 4 different clipboards to store different contents and paste them directly when previously imported in one of the clipboard banks.
+
+#### TODO
+-   Py-Lib Requests need global environment
+-   Host html/php-site with pyton script for Debugging
+    -   End-Points and test scripts
+        -   see current keyboard layer & and functions
+        -   check Status of Arduino (COM-Port, Latest Button press)
+        -   Oversee status of End-Point-Scripts like CEP, HotkeylessAHK   
+
+
 ### Global functions
 The following functions will be available independant from the current Layer (e.g. A1-B5)
 -   [ ] Key Lock
