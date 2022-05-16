@@ -56,7 +56,7 @@ This Layer will have the ability to access the Premiere CEP interface to speed u
 - [ ] save project as (Sicherheitskopie)
 - [ ] zoom out to see the whole project in the timeline
 - [ ] Zoom in/out on selected clip
-- [ ] Crop in/out by 20% is not possible josiaSAD
+- [ ] Crop in/out by 20% is not possible
 - [ ] gauisian blur
 - [ ] Drop shadow
 - [ ] Lumetri color window opens
