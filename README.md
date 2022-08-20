@@ -78,6 +78,7 @@ This Layer will have the ability to access the Premiere CEP interface to speed u
 - [ ] Timeline on an Encoder
 - [ ] Export Single Frame as Image
 - [ ] Color Key + hue vs. hue in a Lumetri Effect
+- [ ] Target single video Tracks
 
 ### Utility Layer
 
